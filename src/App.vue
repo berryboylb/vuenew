@@ -11,8 +11,6 @@ const toggleShow = () =>
 const toggleShowSecond = () => {
   showSecond.value = !showSecond.value;
 }
-  
-
 
 </script>
 
